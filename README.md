@@ -16,7 +16,7 @@ addlicense requires go 1.16 or later.
 
     addlicense [flags] pattern [pattern ...]
 
-    -c      copyright holder (default "Google LLC")
+    -c      copyright holder (default "Morébec")
     -check  check only mode: verify presence of license headers and exit with non-zero code if missing
     -f      license file
     -ignore file patterns to ignore, for example: -ignore **/*.go -ignore vendor/**
