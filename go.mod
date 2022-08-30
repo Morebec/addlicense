@@ -1,4 +1,4 @@
-module github.com/google/addlicense
+module github.com/morebec/addlicense
 
 go 1.13
 
