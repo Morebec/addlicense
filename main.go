@@ -54,7 +54,7 @@ var (
 	ignorePatterns     stringSlice
 	spdx               spdxFlag
 
-	holder    = flag.String("c", "Google LLC", "copyright holder")
+	holder    = flag.String("c", "Morébec", "copyright holder")
 	license   = flag.String("l", "apache", "license type: apache, bsd, mit, mpl")
 	licensef  = flag.String("f", "", "license file")
 	year      = flag.String("y", fmt.Sprint(time.Now().Year()), "copyright year(s)")
